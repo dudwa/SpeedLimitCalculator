@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLX7fNV7pU6RU8AJsB8Rlyedbf44SrKAOFCecl95N8m4kpDlhwB5mXfP7OTAjVETKCI043ttMVImoIKIL+U6Zg==",
+  "success": true,
+  "projectFilePath": "D:\\Projektek\\Advance\\plusz\\SpeedLimitCalculator\\Codecool.SpeedLimitFineCalculator\\Codecool.SpeedLimitFineCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dudwa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dudwa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dudwa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\dudwa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

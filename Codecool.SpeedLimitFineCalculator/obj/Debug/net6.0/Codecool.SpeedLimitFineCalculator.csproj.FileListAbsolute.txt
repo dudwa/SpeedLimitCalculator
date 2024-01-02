@@ -1,0 +1,14 @@
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.exe
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.deps.json
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.runtimeconfig.json
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfoInputs.cache
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfo.cs
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.csproj.CoreCompileInputs.cache
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\refint\Codecool.SpeedLimitFineCalculator.dll
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.genruntimeconfig.cache
+D:\Projektek\Advance\plusz\speed-limit-fine-calculator-1q2023-csharp-dudwa\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\ref\Codecool.SpeedLimitFineCalculator.dll
